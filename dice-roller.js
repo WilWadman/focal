@@ -3,7 +3,7 @@
 // we need to loop through the CLI input so that the number added via the CL is the number of times the dice is rolled
 // we need to declare a variable that creates the rolled number
 // we need to output a message for each dice roll to the user
-// we need to callt he function to get the input from CL to the right place
+// we need to call the function to get the input from CL to the right place
 const args = process.argv;
 let num = args.slice(2);
 
