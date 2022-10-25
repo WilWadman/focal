@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../lotide"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../lighthouse-js-fundamentals"
+		}
+	],
+	"settings": {}
+}
