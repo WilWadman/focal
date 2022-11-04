@@ -3,7 +3,7 @@ const input = [
   { x: 12, y: 5 },
   { x: 8, y: 15 }
 ];
-const result = input.map(findKey;
+const result = input.map(findKey);
 
 console.log(result[0] === 5);
 console.log(result[1] === 13);
@@ -31,7 +31,7 @@ const findKey = function(object, callback) {
 
 
 
-const results1 = findKey(object1 = {
+const resultsx = findKey(object1 = {
   "Blue Hill": { stars: 1 },
   "Akaleri": { stars: 3 },
   "noma": { stars: 2 },
